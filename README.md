@@ -8,7 +8,6 @@
 ### Socials
 
 <p> <a href="https://github.com/GM486" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> </a> <a [href="https://www.github.com/e2-e4dd"](https://www.kaggle.com/semen228) target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=for-the-badge&logo=Kaggle&logoColor=white /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> </a>
-srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> </a>
 </p>
 
 ### Hi there，I'm Semen 🙋‍♂️
